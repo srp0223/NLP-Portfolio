@@ -5,4 +5,4 @@ This is a portfolio that will contain the work that I do in CS 4395 (Human Langu
 
 This assignment was about setting up the portfolio and getting an overview of NLP.
 
-You can see the [assignment deliverable here] (Overview_of_NLP).
+You can see the [assignment deliverable here] (https://github.com/srp0223/NLP-Portfolio/blob/main/Overview_of_NLP.pdf).
