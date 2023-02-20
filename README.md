@@ -15,3 +15,9 @@ Python has many strengths when it comes to text processing. One example is that 
 This assignment was mainly review for me. This doesn't mean that it wasn't helpful for me though. For example, this assignment served as a really good review of how regex works with Python.
 
 You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework1_srp180014.py).
+
+# Assignment 2
+
+This program uses Python and NLTK to explore and tokenize an input text file. The 50 most common words from this input file are then used to create an interactive word guessing game.
+
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework2_srp180014.py).
