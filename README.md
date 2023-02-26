@@ -21,3 +21,9 @@ You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Por
 This program uses Python and NLTK to explore and tokenize an input text file. The 50 most common words from this input file are then used to create an interactive word guessing game.
 
 You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework2_srp180014.py).
+
+# Assignment 3
+
+This assignment provides an overview of the various capabilities of the WordNet and SentiWordNet. In addition, it includes an introduction to collocations.
+
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework3_srp180014.pdf).
