@@ -27,3 +27,9 @@ You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Por
 This assignment provides an overview of the various capabilities of the WordNet and SentiWordNet. In addition, it includes an introduction to collocations.
 
 You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework3_srp180014.pdf).
+
+# Assignment 5
+
+This assignment covers concepts related to sentence syntax. It covers 3 types of sentence parses: PSG tree, dependency parse, and SRL parse.
+
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework5_srp180014.pdf).
