@@ -28,6 +28,16 @@ This assignment provides an overview of the various capabilities of the WordNet 
 
 You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework3_srp180014.pdf).
 
+# Assignment 4
+
+The programs in this assignment build a language model from n-grams. The report is a reflection on the utility of n-gram language models and n-grams in general.
+
+You can see the [first program here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework4_Program1_srp180014.py).
+
+You can see the [second program here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework4_Program2_srp180014.py).
+
+You can see the [report here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework4_Narrative_srp180014.pdf).
+
 # Assignment 5
 
 This assignment covers concepts related to sentence syntax. It covers 3 types of sentence parses: PSG tree, dependency parse, and SRL parse.
