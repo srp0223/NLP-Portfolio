@@ -43,3 +43,9 @@ You can see the [report here](https://github.com/srp0223/NLP-Portfolio/blob/main
 This assignment covers concepts related to sentence syntax. It covers 3 types of sentence parses: PSG tree, dependency parse, and SRL parse.
 
 You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework5_srp180014.pdf).
+
+# Assignment 6
+
+The purpose of this assignment was to understand how websites work and create a web crawler. The information gathered using this process was used to create a knowledge base.
+
+You can see the [program here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework6_srp180014.py) and the [report here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework6Report_srp180014.pdf).
