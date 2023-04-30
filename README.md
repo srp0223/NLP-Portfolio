@@ -42,7 +42,7 @@ You can see the [report here](https://github.com/srp0223/NLP-Portfolio/blob/main
 
 This assignment covers concepts related to sentence syntax. It covers 3 types of sentence parses: PSG tree, dependency parse, and SRL parse.
 
-You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Homework5_srp180014.pdf).
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignment%205/Homework5_srp180014.pdf).
 
 # Assignment 6
 
