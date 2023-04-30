@@ -49,3 +49,15 @@ You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Por
 The purpose of this assignment was to understand how websites work and create a web crawler. The information gathered using this process was used to create a knowledge base.
 
 You can see the [program here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignment%206/Homework6_srp180014.py) and the [report here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignment%206/Homework6Report_srp180014.pdf).
+
+# Assignment 7
+
+The purpose of this assignment was to summarize and reflect on one of the ACL papers provided by the instructor. I chose a paper about unsupervised text style transfer.
+
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main).
+
+# Assignment 8
+
+The purpose of this assignment was to create a chatbot using NLP techniques that we learned in class.
+
+You can see the [assignment deliverable here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignment%208/Chatbot.py).
