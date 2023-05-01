@@ -70,4 +70,4 @@ You can see the [skills learned here](https://github.com/srp0223/NLP-Portfolio/b
 # Summary
 This page includes a summary of what I've learned in class and what I plan to do with NLP in the future.
 
-You can see the [summary here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignment%200/Overview_of_NLP.pdf).
+You can see the [summary here](https://github.com/srp0223/NLP-Portfolio/blob/main/Summary/Summary.pdf).
