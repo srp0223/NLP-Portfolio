@@ -65,7 +65,7 @@ You can see the [chatbot here](https://github.com/srp0223/NLP-Portfolio/blob/mai
 # Skills Learned
 This page lists the technical and soft skills that are included in this portfolio.
 
-You can see the [page here](https://github.com/srp0223/NLP-Portfolio/blob/main/Skills%20Learned/Skills%20Learned).
+You can see the [skills learned here](https://github.com/srp0223/NLP-Portfolio/blob/main/Skills%20Learned/Skills%20Learned).
 
 # Summary
 This page includes a summary of what I've learned in class and what I plan to do with NLP in the future.
