@@ -54,7 +54,7 @@ You can see the [program here](https://github.com/srp0223/NLP-Portfolio/blob/mai
 
 The purpose of this assignment was to summarize and reflect on one of the ACL papers provided by the instructor. I chose a paper about unsupervised text style transfer.
 
-You can see the [ACL paper summary here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignments/Assignment%207/sample).
+You can see the [ACL paper summary here](https://github.com/srp0223/NLP-Portfolio/blob/main/Assignments/Assignment%207/Homework7_srp180014.pdf).
 
 # Assignment 8
 
